@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/RizwanHamkaUGM/GDGoC-BookManagement/static/css/main.79d19d76.css",
+    "main.js": "/RizwanHamkaUGM/GDGoC-BookManagement/static/js/main.8e37644e.js",
+    "static/js/453.19618ca1.chunk.js": "/RizwanHamkaUGM/GDGoC-BookManagement/static/js/453.19618ca1.chunk.js",
+    "index.html": "/RizwanHamkaUGM/GDGoC-BookManagement/index.html",
+    "main.79d19d76.css.map": "/RizwanHamkaUGM/GDGoC-BookManagement/static/css/main.79d19d76.css.map",
+    "main.8e37644e.js.map": "/RizwanHamkaUGM/GDGoC-BookManagement/static/js/main.8e37644e.js.map",
+    "453.19618ca1.chunk.js.map": "/RizwanHamkaUGM/GDGoC-BookManagement/static/js/453.19618ca1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79d19d76.css",
+    "static/js/main.8e37644e.js"
+  ]
+}
